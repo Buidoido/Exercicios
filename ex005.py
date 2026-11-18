@@ -1,2 +1,4 @@
-horas = int(input('Digite a quantidade de horas totais:'))
-print(f'O total em minutos é :{horas * 60}, em segundos é : {horas * 3600}')
+n1 = int(input('Digite um numero inteiro: '))
+s = n1 + 1
+a = n1 - 1
+print(f'O sucessor do numero interito {s} e seu antecessor do numero inteiro e {a}')

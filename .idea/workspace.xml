@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42585de1-daaf-42d1-9cef-403177dc9031" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Operações aritimeticas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex0010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex0012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex0013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1496848380774214" />
+      <entry key="MS500" value="1.686577541303965" />
+      <entry key="S2" value="2.432105576234126" />
+      <entry key="S5" value="3.965631488340556" />
+      <entry key="S10" value="6.465539369393909" />
+      <entry key="S30" value="15.64865275761626" />
+      <entry key="S60" value="25.315091678784878" />
+      <entry key="M2" value="42.128872131784114" />
+      <entry key="M5" value="84.14092690690731" />
+      <entry key="M10" value="141.83517253090773" />
+      <entry key="M15" value="194.61691535477073" />
+      <entry key="M30" value="317.9601485866837" />
+      <entry key="H1" value="448.021474763228" />
+      <entry key="H2" value="547.5660341326419" />
+      <entry key="H4" value="609.9803930382868" />
+      <entry key="D1" value="670.0111266267587" />
+      <entry key="W1" value="681.1232127921074" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.7976305532390875E-197" />
+      <entry key="S10" value="6.53058194371423E-99" />
+      <entry key="S30" value="4.1570013426727795E-33" />
+      <entry key="S60" value="1.3956198364833492E-16" />
+      <entry key="M2" value="2.7102152568189462E-8" />
+      <entry key="M5" value="0.0026809816031872604" />
+      <entry key="M10" value="0.12606967733680277" />
+      <entry key="M15" value="0.4561983097647776" />
+      <entry key="M30" value="1.653175479663584" />
+      <entry key="H1" value="3.1488275039627593" />
+      <entry key="H2" value="4.346384473164716" />
+      <entry key="H4" value="5.106627387644906" />
+      <entry key="D1" value="5.840916069337244" />
+      <entry key="W1" value="5.977010901150833" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.18000203750377056" />
+      <entry key="MS500" value="1.112396853239491" />
+      <entry key="S2" value="2.176004363002735" />
+      <entry key="S5" value="3.7839369632876996" />
+      <entry key="S10" value="6.340628857053421" />
+      <entry key="S30" value="15.570923870515166" />
+      <entry key="S60" value="25.247735948685346" />
+      <entry key="M2" value="42.06691897077296" />
+      <entry key="M5" value="84.09161697758064" />
+      <entry key="M10" value="141.9153360323119" />
+      <entry key="M15" value="195.0289045084008" />
+      <entry key="M30" value="319.5743449202701" />
+      <entry key="H1" value="451.1417306352454" />
+      <entry key="H2" value="551.8946479546166" />
+      <entry key="H4" value="615.077043217844" />
+      <entry key="D1" value="675.8502049649962" />
+      <entry key="W1" value="687.0999565392364" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3MG1v52XKl1QbMVaBZIJopwD0Yx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ex0010.executor": "Run",
+    "Python.ex0011.executor": "Run",
+    "Python.ex0012.executor": "Run",
+    "Python.ex0013.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42585de1-daaf-42d1-9cef-403177dc9031" name="Changes" comment="" />
+      <created>1794962319651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794962319651</updated>
+      <workItem from="1794962320665" duration="5232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exercicios$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1794963778701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercicios$ex0010.coverage" NAME="ex0010 Coverage Results" MODIFIED="1794965695449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercicios$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1794963122114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercicios$ex0013.coverage" NAME="ex0013 Coverage Results" MODIFIED="1794967221719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercicios$ex006.coverage" NAME="ex006 Coverage Results" MODIFIED="1794963143830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercicios$ex0012.coverage" NAME="ex0012 Coverage Results" MODIFIED="1794966819506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercicios$ex0011.coverage" NAME="ex0011 Coverage Results" MODIFIED="1794966426855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercicios$ex007.coverage" NAME="ex007 Coverage Results" MODIFIED="1794963458391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercicios$ex009.coverage" NAME="ex009 Coverage Results" MODIFIED="1794965306875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
