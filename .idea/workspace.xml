@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42585de1-daaf-42d1-9cef-403177dc9031" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Operações aritimeticas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex0010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex0011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex0012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex0013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex0010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex0011.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex0012.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex0013.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,10 +86,10 @@
       <entry key="W1" value="687.0999565392364" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3MG1v52XKl1QbMVaBZIJopwD0Yx" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -126,7 +121,8 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.intellij.mcpserver.settings.filter"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -144,6 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1794962319651</updated>
       <workItem from="1794962320665" duration="5232000" />
+      <workItem from="1795042097862" duration="390000" />
     </task>
     <servers />
   </component>
