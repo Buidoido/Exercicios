@@ -1,0 +1,6 @@
+valor = input('Digite um valor de 0 a 9999: ')
+print(f'O numero digitado foi {valor}')
+print(f'Unidade {valor[3]}')
+print(f'Dezena {valor[2]}')
+print(f'Centena {valor[1]}')
+print(f'Milhar {valor[0]}')
