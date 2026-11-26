@@ -1,4 +1,4 @@
-valor = input('Digite um valor de 0 a 9999: ')
+valor = input('Digite um valor de 0 a 9999: ').zfill(4)
 print(f'O numero digitado foi {valor}')
 print(f'Unidade {valor[3]}')
 print(f'Dezena {valor[2]}')
